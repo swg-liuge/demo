@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import javax.annotation.PostConstruct;
 
 /**
- * @description: dqc任务失败时 发送报警邮件
+ * @description:
  * @author: swg
  * @created: 2018/5/29
  */

@@ -1,7 +1,7 @@
 package com.example.demo.event;
 
 /**
- * @description: 包装失败批次信息的实体类
+ * @description:
  * @author: swg
  * @created: 2018/5/29
  */
